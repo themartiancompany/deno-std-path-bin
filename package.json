@@ -1,6 +1,6 @@
 {
   "name": "@themartiancompany/std__path",
-  "version": "1.1.3",
+  "version": "1.1.4",
   "homepage": "https://jsr.io/@std/path",
   "description": "Utilities for working with file system paths.",
   "type": "module",

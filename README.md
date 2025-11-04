@@ -32,19 +32,20 @@ Meanwhile I'm re-publishing the old working
 code.
 
 This package has been made available on the
-[NPM Registry](
-  https://www.npmjs.com/package/@themartianocompany/std__path)
-as `@themartiancompany/std__internal`
-because `@std/path` on
-[jsr](
+NPM Registry as
+[`@themartiancompany/std__path`](
+  https://www.npmjs.com/package/@themartiancompany/std__path)
+because
+[`@std/path`](
   https://jsr.io/@std/path)
-doesn't include the javascript files.
+on JSR doesn't include the javascript files.
 
 ```bash
 npm \
   install \
     "@themartiancompany/std__internal"
 ```
+
 
 ## License
 
