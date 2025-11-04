@@ -1,7 +1,7 @@
 {
   "name": "@themartiancompany/std__path",
   "version": "1.1.4",
-  "homepage": "https://jsr.io/@std/path",
+  "homepage": "https://github.com/themartiancompany/deno-std-path-bin",
   "description": "Utilities for working with file system paths.",
   "type": "module",
   "dependencies": {
