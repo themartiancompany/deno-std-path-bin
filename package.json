@@ -10,11 +10,12 @@
   "license": "AGPL-3.0-or-later",
   "keywords": [
     "deno",
+    "dogeos",
+    "evmfs",
     "jsr",
     "std",
     "themartiancompany",
-    "ur",
-    "dogeos"
+    "ur"
   ],
   "bugs": {
     "url": "https://github.com/themartiancompany/deno-std-path-bin/issues"
