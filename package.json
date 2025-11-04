@@ -7,6 +7,15 @@
   "dependencies": {
     "@jsr/std__internal": "npm:@themartiancompany/std__internal@^1.0.10"
   },
+  "license": "AGPL-3.0-or-later",
+  "keywords": [
+    "deno",
+    "jsr",
+    "std",
+    "themartiancompany",
+    "ur",
+    "dogeos"
+  ],
   "bugs": {
     "url": "https://github.com/themartiancompany/deno-std-path-bin/issues"
   },
